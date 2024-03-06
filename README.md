@@ -1,6 +1,6 @@
-#Linktree customizado📒
+Linktree customizado📒
 ---
-**e um linktree com um design diferenciado e totalmente customizavel, me inspirei em algums sites para fazer
+**linktree com um design diferenciado e totalmente customizavel
 .**
 ---
 -Esse e meu primeiro projeto espero que gostem, qualquer duvida so me chamar!
